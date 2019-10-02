@@ -54,15 +54,7 @@
             width: 150px;
             height: 17px;
         }
-        #go{
-              position: absolute;
-              top: 0;
-              bottom: 438px;
-              left: 0;
-              right: 40px;
-              margin: auto;
-            
-        }
+       
         #col1 {
             font-size: 20pt;
             text-align: left;
